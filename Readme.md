@@ -2,8 +2,8 @@
 Enhancing Kalman Filters with a pre-trained Neural Network for improved accuracy. Focus on extracting valuable information from chaotic variables in real-time.
 
 ## Role
-- **Researchers:** Varun Niraj Agarwal, Hemanth Krishna, Avaneesh Kanshi, Navneet Vinod Melarkode.
-- **Supervisor:** Dr. Malaya Kumar Hota from the Department of Communication Engineering.
+- **Researchers:** Varun Niraj Agarwal, Avaneesh Kanshi, Navneet Vinod Melarkode and Hemanth Krishna.
+- **Supervisor:** Dr. Malaya Kumar Hota from the Department of Communication Engineering, VIT Vellore.
 
 ## Technologies Used
 - Kalman Filters.
