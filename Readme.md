@@ -37,7 +37,7 @@ Researchers from Computer Science and Engineering collaborated with Communicatio
 Quantifiable improvement in accuracy and convergence compared to traditional Kalman Filters.
 
 ## Featured Content
-Published in IEEE journal ([Link to the publication](https://ieeexplore.ieee.org/document/9952718))
+Published at an IEEE conference, ICONAT 2022 (2022 International Conference for Advancement in Technology): [doi:10.1109/ICONAT53423.2022.9726059](https://doi.org/10.1109/ICONAT53423.2022.9726059)
 
 ## Conclusion
 - Successful Neural Network integration overcomes real-time processing challenges in Python.
