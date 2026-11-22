@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Neural Network Aided Kalman Filter to Maximize Accuracy"
+type: software
+license: MIT
+repository-code: "https://github.com/VarunAgarwalOfficial/Neural-Network-Aided-Kalman-Filter-to-Maximize-Accuracy"
+authors:
+  - family-names: Agarwal
+    given-names: Varun Niraj
+    orcid: "https://orcid.org/0000-0002-0785-5357"
+preferred-citation:
+  type: conference-paper
+  title: "Neural Network Aided Kalman Filter to Maximize Accuracy"
+  authors:
+    - family-names: Agarwal
+      given-names: Varun Niraj
+      orcid: "https://orcid.org/0000-0002-0785-5357"
+    - family-names: Kanshi
+      given-names: Avaneesh
+    - family-names: Melarkode
+      given-names: Navneet Vinod
+    - family-names: Krishna
+      given-names: Hemanth
+    - family-names: Hota
+      given-names: Malaya Kumar
+  collection-title: "2022 International Conference for Advancement in Technology (ICONAT)"
+  conference:
+    name: "2022 International Conference for Advancement in Technology (ICONAT)"
+  publisher:
+    name: IEEE
+  year: 2022
+  start: 1
+  end: 4
+  doi: "10.1109/ICONAT53423.2022.9726059"
