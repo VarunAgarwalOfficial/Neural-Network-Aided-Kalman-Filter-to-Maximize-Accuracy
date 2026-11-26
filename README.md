@@ -44,6 +44,10 @@ Research project at VIT Vellore, a collaboration between Computer Science and En
 
 GitHub also reads `CITATION.cff` and shows a "Cite this repository" button.
 
-## License
+## Status
+
+Finished, as of 26 November 2026. The paper was published at ICONAT 2022. See [STATUS.md](STATUS.md).
+
+## Licence
 
 MIT, see LICENSE.
