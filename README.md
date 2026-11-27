@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/banner.png" alt="Pixel art: a smooth line follows noisy dots to a bee, beside a small network on a board" width="100%"></p>
+<p align="center"><img src="docs/banner.png" alt="Pixel art: a small neural network feeds a chart where a smooth line tracks noisy dots" width="100%"></p>
 
 # Kalman filter
 
