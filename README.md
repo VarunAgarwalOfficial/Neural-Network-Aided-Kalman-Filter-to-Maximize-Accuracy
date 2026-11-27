@@ -1,6 +1,12 @@
-# Neural Network Aided Kalman Filter to Maximize Accuracy
+<p align="center"><img src="docs/banner.png" alt="Pixel art: a smooth line follows noisy dots to a bee, beside a small network on a board" width="100%"></p>
 
-Code and notes for the IEEE conference paper of the same name (ICONAT 2022). The paper improves a Kalman filter's accuracy by feeding it values estimated by a pre-trained neural network. This repository holds the Kalman filter side: notebooks that build up the filter from one dimension, a synthetic data generator and the filter applied to that data.
+# Kalman filter
+
+Kalman filter notebooks and data for the IEEE ICONAT 2022 paper on a neural-network-aided Kalman filter.
+
+[MIT licence](LICENSE)
+
+The paper improves a Kalman filter's accuracy by feeding it values estimated by a pre-trained neural network. This repository holds the Kalman filter side: notebooks that build up the filter from one dimension, a synthetic data generator and the filter applied to that data.
 
 **Published:** IEEE conference paper, 2022 International Conference for Advancement in Technology (ICONAT), pp. 1–4. DOI: [10.1109/ICONAT53423.2022.9726059](https://doi.org/10.1109/ICONAT53423.2022.9726059). The paper PDF is in this repository.
 
