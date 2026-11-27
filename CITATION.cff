@@ -3,7 +3,7 @@ message: "If you use this code, please cite the paper below."
 title: "Neural Network Aided Kalman Filter to Maximize Accuracy"
 type: software
 license: MIT
-repository-code: "https://github.com/VarunAgarwalOfficial/Neural-Network-Aided-Kalman-Filter-to-Maximize-Accuracy"
+repository-code: "https://github.com/varunswaika/Neural-Network-Aided-Kalman-Filter-to-Maximize-Accuracy"
 authors:
   - family-names: Agarwal
     given-names: Varun Niraj
